@@ -12,3 +12,9 @@
 [submodule "2. R Programming/Assignment 2"]
 	path = 2. R Programming/Assignment 2
 	url = https://github.com/yannarosh/ProgrammingAssignment2.git
+[submodule "4. Exploratory Data Analysis/ Course project 1"]
+	path = 4. Exploratory Data Analysis/ Course project 1
+	url = https://github.com/yannarosh/ExData_Plotting1.git
+[submodule "4. Exploratory Data Analysis/Course project 1"]
+	path = 4. Exploratory Data Analysis/Course project 1
+	url = https://github.com/yannarosh/ExData_Plotting1.git
