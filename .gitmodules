@@ -1,20 +1,11 @@
-[submodule "5. Reproducible Research"]
-	path = 5. Reproducible Research
-	url = https://github.com/yannarosh/RepData_PeerAssessment1.git
-
-
-[submodule "4. Exploratory Data Analysis/Course project 13"]
-	path = 4. Exploratory Data Analysis/Course project 13
-	url = https://github.com/yannarosh/ExData_Plotting1.git
-[submodule "2. R Programming"]
-	path = 2. R Programming
-	url = https://github.com/yannarosh/ProgrammingAssignment2
 [submodule "2. R Programming/Assignment 2"]
 	path = 2. R Programming/Assignment 2
 	url = https://github.com/yannarosh/ProgrammingAssignment2.git
-[submodule "4. Exploratory Data Analysis/ Course project 1"]
-	path = 4. Exploratory Data Analysis/ Course project 1
-	url = https://github.com/yannarosh/ExData_Plotting1.git
+
 [submodule "4. Exploratory Data Analysis/Course project 1"]
 	path = 4. Exploratory Data Analysis/Course project 1
 	url = https://github.com/yannarosh/ExData_Plotting1.git
+
+[submodule "5. Reproducible Research"]
+	path = 5. Reproducible Research
+	url = https://github.com/yannarosh/RepData_PeerAssessment1.git
