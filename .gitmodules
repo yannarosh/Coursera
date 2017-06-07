@@ -5,7 +5,3 @@
 [submodule "4. Exploratory Data Analysis/Course project 1"]
 	path = 4. Exploratory Data Analysis/Course project 1
 	url = https://github.com/yannarosh/ExData_Plotting1.git
-
-[submodule "5. Reproducible Research"]
-	path = 5. Reproducible Research
-	url = https://github.com/yannarosh/RepData_PeerAssessment1.git
