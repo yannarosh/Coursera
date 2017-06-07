@@ -9,3 +9,6 @@
 [submodule "2. R Programming"]
 	path = 2. R Programming
 	url = https://github.com/yannarosh/ProgrammingAssignment2
+[submodule "2. R Programming/Assignment 2"]
+	path = 2. R Programming/Assignment 2
+	url = https://github.com/yannarosh/ProgrammingAssignment2.git
