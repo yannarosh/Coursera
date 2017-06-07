@@ -1,18 +1,18 @@
 # download and unzip files 
-if(!file.exists("./assignment_data")) {
-        dir.create("./assignment_data")
+if(!file.exists("./data")) {
+        dir.create("./data")
         url <- "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip"
-        file_dest <- "./assignment_data/assignment_data.zip"
+        file_dest <- "./data/assignment_data.zip"
         message("downloading files...")
         download.file(url, file_dest)
         message("unzipping contents...")
-        unzip("./assignment_data/assignment_data.zip", exdir = "./assignment_data")
+        unzip("./data/assignment_data.zip", exdir = "./data")
 }
 
 # read files into objects        
 message("reading data...")
-data_raw <- readRDS('./assignment_data/summarySCC_PM25.rds')
-SCC <- readRDS('./assignment_data/Source_Classification_Code.rds')
+data_raw <- readRDS('./data/summarySCC_PM25.rds')
+SCC <- readRDS('./data/Source_Classification_Code.rds')
 
 # merge the two datasets and select only coal related observations.
 data_full <- merge(data_raw, SCC, by = "SCC")
