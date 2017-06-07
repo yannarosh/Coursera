@@ -6,3 +6,6 @@
 [submodule "4. Exploratory Data Analysis/Course project 13"]
 	path = 4. Exploratory Data Analysis/Course project 13
 	url = https://github.com/yannarosh/ExData_Plotting1.git
+[submodule "2. R Programming"]
+	path = 2. R Programming
+	url = https://github.com/yannarosh/ProgrammingAssignment2
