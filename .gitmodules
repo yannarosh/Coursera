@@ -5,9 +5,23 @@
 [submodule "4. Exploratory Data Analysis/Course project 1"]
 	path = 4. Exploratory Data Analysis/Course project 1
 	url = https://github.com/yannarosh/ExData_Plotting1.git
+
+
 [submodule "5. Reproducible Research/Course project 1"]
 	path = 5. Reproducible Research/Course project 1
 	url = https://github.com/yannarosh/RepData_PeerAssessment1.git
+
+
+
+
 [submodule "3. Getting and Cleaning Data/Course project"]
+	
 	path = 3. Getting and Cleaning Data/Course project
+	
 	url = https://github.com/yannarosh/get-and-clean-data-project.git
+[submodule "6. Statistical Inference/Course project"]
+	path = 6. Statistical Inference/Course project
+	url = https://github.com/yannarosh/stat-inf-proj.git
+[submodule "7. Regression Models/Course project"]
+	path = 7. Regression Models/Course project
+	url = https://github.com/yannarosh/regression-cp.git
